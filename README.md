@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando no meu desenvolvimento profissional através de cursos, treinamentos e projetos práticos
-- 🌱 Estudando Cloud Computing
+- 🌱 Estudando Full Stack Development
 - 📫 Contate-me no email: lorryansilva@gmail.com
 - 😄 Pronomes: ele/dele
 
