@@ -5,6 +5,8 @@
 - 🌱 Estudando Full Stack Development
 - 📫 Contate-me no email: lorryansilva@gmail.com
 - 😄 Pronomes: ele/dele
+- ![image](https://user-images.githubusercontent.com/83889645/170383318-b60070b2-c453-45d9-bf2c-6b6eea66a323.png) ![image](https://user-images.githubusercontent.com/83889645/170383773-9aa9a9f5-dbfc-48ff-a406-3d9b0c4cf714.png) ![image](https://user-images.githubusercontent.com/83889645/170383856-75ccfaf0-fe68-4166-8672-f44100f8ef43.png) ![image](https://user-images.githubusercontent.com/83889645/170383879-b730e202-8a81-44da-ae94-33ad7bcc75b7.png) ![image](https://user-images.githubusercontent.com/83889645/170383903-d629d4a3-620c-4e33-a8fa-98e307fdca73.png) ![image](https://user-images.githubusercontent.com/83889645/170383943-a616afe1-aad4-4b80-9e43-6990b2a7c805.png)
+
 
 
 <div align="center">
