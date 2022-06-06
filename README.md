@@ -1,11 +1,10 @@
 ### Olá, eu sou o Laio Gomes 👋
 
 
-- 🔭 Atualmente estou trabalhando no meu desenvolvimento profissional através de cursos, treinamentos e projetos práticos
-- 🌱 Estudando Full Stack Development
+- 🔭 Apaixonado por tecnologia e suas inovações
+- 🌱 Cursando Engenharia de Software e participando do Bootcamp Santander Mobile com Kotlin
 - 📫 Contate-me no email: lorryansilva@gmail.com
 - 😄 Pronomes: ele/dele
-- ![image](https://user-images.githubusercontent.com/83889645/170383318-b60070b2-c453-45d9-bf2c-6b6eea66a323.png) ![image](https://user-images.githubusercontent.com/83889645/170383773-9aa9a9f5-dbfc-48ff-a406-3d9b0c4cf714.png)
 
 
 <div align="center">
