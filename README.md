@@ -1,10 +1,10 @@
 ### Olá, eu sou o Laio Gomes 👋
 
 
-- 🔭 Apaixonado por tecnologia e suas inovações
-- 🌱 Cursando Engenharia de Software
+- 🔭 Entusiasta das inovações
+- 🌱 Data Scientist
 - 🐍 Python na veia
-- 📫 Contate-me no email: lorryansilva@gmail.com
+- 📫 Email: lorryansilva@gmail.com
 - 😄 Pronomes: ele/dele
 
   
